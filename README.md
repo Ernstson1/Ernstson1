@@ -1,6 +1,8 @@
 ## Hi there 👋
+'''
 ⚡ Fun fact: I am Swedish
 🔭 I’m currently studying  Software Technology at Linnaeus University
+'''
 <!--
 **Ernstson1/Ernstson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
