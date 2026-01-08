@@ -30,4 +30,10 @@ The focus is on fundamentals rather than polished end products.
 
 ### Selected Projects
 - [Simple Falling Sand Game in C](link coming soon)  
-  A simple falling sand game built using C and SDL2 to explore graphics, input handling, and basic physics simulation.  
+  A simple falling sand game built using C and SDL2.  
+  It explores graphics rendering, mouse input handling, and basic physics simulation for falling sand grains.
+
+- [Real-Time TCP Server](https://github.com/Ernstson1/RealTimeServer)  
+  A personal project implementing a real-time communication server in Java.  
+  It supports multiple TCP clients, custom packet handling, chat rooms, and message broadcasting.  
+  Designed with a non-blocking NIO architecture and separation of concerns for easy expansion. 
