@@ -29,5 +29,5 @@ I use them to explore new concepts, test ideas, and improve my understanding by 
 The focus is on fundamentals rather than polished end products.
 
 ### Selected Projects
-- [Simple Falling Sand Game in C](Insert link here)  
+- [Simple Falling Sand Game in C](link coming soon)  
   A simple falling sand game built using C and SDL2 to explore graphics, input handling, and basic physics simulation.
