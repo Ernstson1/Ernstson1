@@ -34,6 +34,6 @@ The focus is on fundamentals rather than polished end products.
   A simple falling sand game built using C and SDL2.  
   It explores graphics rendering, mouse input handling, and basic physics simulation for falling sand grains.
 
-- [Terminal Mandelbrot in C](https://github.com/Ernstson1/REPO-NAME)  
+- [Terminal Mandelbrot in C](https://github.com/Ernstson1/mandelbrot)  
   A real-time Mandelbrot set renderer that runs directly in the terminal using ANSI escape codes and 24-bit color.  
   By shrinking the terminal font, each character cell acts as a pixel, turning the terminal into a high-resolution canvas with interactive pan and zoom.
